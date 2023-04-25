@@ -13,4 +13,6 @@ int main(int argc, char *argv[])
     gtk_main(); // loop principal
 
     return 0;
+    
+    // GTK_WINDOW_TOPLEVEL: janela com borda e botões de controle
 }
